@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8aa7b95-b851-44a7-bbea-376d9b8b0117" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/exercices" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/solutions/Solution_01.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/solutions/Solution_02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/fundamentals/exercices.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/fundamentals/solutions/Solution_01.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,9 +21,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2xIV6X8hgBfYVlVV7zDUGn7hMbi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,10 +33,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Kotlin.Solution_01Kt (1).executor": "Run",
     "Kotlin.Solution_01Kt.executor": "Run",
     "Kotlin.Solution_02Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -48,16 +48,23 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Solution_02Kt">
+  <component name="RunManager" selected="Kotlin.Solution_01Kt (1)">
+    <configuration name="Solution_01Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.fundamentals.solutions.Solution_01Kt" />
+      <module name="kotlin-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution_01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.solutions.Solution_01Kt" />
+      <option name="MAIN_CLASS_NAME" value="basic.fundamentals.Solution_01Kt" />
       <module name="kotlin-learning" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Solution_02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.solutions.Solution_02Kt" />
+      <option name="MAIN_CLASS_NAME" value="basic.fundamentals.Solution_02Kt" />
       <module name="kotlin-learning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Solution_01Kt (1)" />
         <item itemvalue="Kotlin.Solution_02Kt" />
         <item itemvalue="Kotlin.Solution_01Kt" />
       </list>
@@ -87,10 +95,26 @@
       <option name="presentableId" value="Default" />
       <updated>1747625405186</updated>
       <workItem from="1747625406928" duration="414000" />
+      <workItem from="1747628501160" duration="503000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/basic/fundamentals/solutions/Solution_01.kt</url>
+          <line>2</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
