@@ -13,7 +13,7 @@
 - Declare uma variável altura do tipo Double e exiba seu valor.
 
 
-Converta um número String ("10") para Int e exiba o dobro.
+- Converta um número String ("10") para Int e exiba o dobro.
 
 
 Escreva um programa que leia o nome e a idade do usuário e imprima: "João tem 25 anos".

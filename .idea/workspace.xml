@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8aa7b95-b851-44a7-bbea-376d9b8b0117" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basic/fundamentals/solutions/Solution_04.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/fundamentals/solutions/Solution_05.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/basic/fundamentals/exercices.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/fundamentals/exercices.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +42,7 @@
     "Kotlin.Solution_02Kt.executor": "Run",
     "Kotlin.Solution_03Kt.executor": "Run",
     "Kotlin.Solution_04Kt.executor": "Run",
+    "Kotlin.Solution_05Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "feat/basic-exercises",
@@ -54,7 +55,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Solution_04Kt">
+  <component name="RunManager" selected="Kotlin.Solution_05Kt">
     <configuration name="Solution_01Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.fundamentals.solutions.Solution_01Kt" />
       <module name="kotlin-learning" />
@@ -64,13 +65,6 @@
     </configuration>
     <configuration name="Solution_02Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.fundamentals.solutions.Solution_02Kt" />
-      <module name="kotlin-learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution_02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.fundamentals.Solution_02Kt" />
       <module name="kotlin-learning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,13 +84,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_05Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.fundamentals.solutions.Solution_05Kt" />
+      <module name="kotlin-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Solution_05Kt" />
         <item itemvalue="Kotlin.Solution_04Kt" />
         <item itemvalue="Kotlin.Solution_03Kt" />
         <item itemvalue="Kotlin.Solution_02Kt (1)" />
         <item itemvalue="Kotlin.Solution_01Kt (1)" />
-        <item itemvalue="Kotlin.Solution_02Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +118,7 @@
       <option name="presentableId" value="Default" />
       <updated>1747625405186</updated>
       <workItem from="1747625406928" duration="414000" />
-      <workItem from="1747628501160" duration="1410000" />
+      <workItem from="1747628501160" duration="1875000" />
     </task>
     <servers />
   </component>
