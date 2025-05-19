@@ -4,7 +4,7 @@
 - Crie um programa que exiba “Olá, Kotlin!” no console.
 
 
-Declare uma variável nome do tipo String e imprima “Olá, <nome>!”.
+- Declare uma variável nome do tipo String e imprima “Olá, <nome>!”.
 
 
 Declare uma val com a idade de uma pessoa e imprima uma frase com a idade.
