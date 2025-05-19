@@ -51,7 +51,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Solution_02Kt (1)">
+  <component name="RunManager" selected="Kotlin.Solution_03Kt">
     <configuration name="Solution_01Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.fundamentals.solutions.Solution_01Kt" />
       <module name="kotlin-learning" />
@@ -80,8 +80,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_03Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.fundamentals.solutions.Solution_03Kt" />
+      <module name="kotlin-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Solution_03Kt" />
         <item itemvalue="Kotlin.Solution_02Kt (1)" />
         <item itemvalue="Kotlin.Solution_01Kt (1)" />
         <item itemvalue="Kotlin.Solution_02Kt" />

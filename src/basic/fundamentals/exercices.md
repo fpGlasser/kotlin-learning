@@ -7,7 +7,7 @@
 - Declare uma variável nome do tipo String e imprima “Olá, <nome>!”.
 
 
-Declare uma val com a idade de uma pessoa e imprima uma frase com a idade.
+- Declare uma val com a idade de uma pessoa e imprima uma frase com a idade.
 
 
 Declare uma variável altura do tipo Double e exiba seu valor.
