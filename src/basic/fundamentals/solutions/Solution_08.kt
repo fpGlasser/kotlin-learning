@@ -5,9 +5,9 @@ fun main(){
     val n = readln().toInt()
     if(n == 0 ){
         print("O numero digitado é zero")
-    }else if(n % 2 == 0){
-        print("O numero digitado é par")
+    }else if(n < 0){
+        print("O numero digitado é negativo")
     }else  {
-        print("O numero digitado é impar")
+        print("O numero digitado é positivo")
     }
 }
