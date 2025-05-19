@@ -16,7 +16,7 @@
 - Converta um número String ("10") para Int e exiba o dobro.
 
 
-Escreva um programa que leia o nome e a idade do usuário e imprima: "João tem 25 anos".
+- Escreva um programa que leia o nome e a idade do usuário e imprima: "João tem 25 anos".
 
 
 Crie duas variáveis a e b e troque seus valores entre si.
