@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8aa7b95-b851-44a7-bbea-376d9b8b0117" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basic/fundamentals/solutions/Solution_15.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/conditionals/exercises/Exercises.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/conditionals/solutions/Solution_01.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +56,7 @@
     "Kotlin.Solution_15Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feat/basic-exercises",
+    "git-widget-placeholder": "feat/conditional",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -64,9 +66,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Solution_15Kt">
-    <configuration name="Solution_11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.fundamentals.solutions.Solution_11Kt" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\glass\projects\portfolio\learning\kotlin-learning\src\basic\fundamentals\exercises" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Solution_01Kt">
+    <configuration name="Solution_01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.conditionals.solutions.Solution_01Kt" />
       <module name="kotlin-learning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Solution_01Kt" />
         <item itemvalue="Kotlin.Solution_15Kt" />
         <item itemvalue="Kotlin.Solution_14Kt" />
         <item itemvalue="Kotlin.Solution_13Kt" />
         <item itemvalue="Kotlin.Solution_12Kt" />
-        <item itemvalue="Kotlin.Solution_11Kt" />
       </list>
     </recent_temporary>
   </component>
