@@ -19,10 +19,10 @@
 - Escreva um programa que leia o nome e a idade do usuário e imprima: "João tem 25 anos".
 
 
-Crie duas variáveis a e b e troque seus valores entre si.
+- Crie duas variáveis a e b e troque seus valores entre si.
 
 
-Faça um programa que leia um número e imprima se ele é positivo, negativo ou zero.
+- Faça um programa que leia um número e imprima se ele é positivo, negativo ou zero.
 
 
 Verifique se um número é par ou ímpar.
