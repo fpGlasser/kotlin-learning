@@ -10,7 +10,7 @@
 - Declare uma val com a idade de uma pessoa e imprima uma frase com a idade.
 
 
-Declare uma variável altura do tipo Double e exiba seu valor.
+- Declare uma variável altura do tipo Double e exiba seu valor.
 
 
 Converta um número String ("10") para Int e exiba o dobro.
