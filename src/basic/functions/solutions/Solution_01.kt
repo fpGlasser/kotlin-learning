@@ -2,6 +2,7 @@ package basic.functions.solutions
 
 fun main(){
     println("Digite dois numeros para saber a soma entre eles")
+
     print("Primeiro numero: ")
     val num1 = readln().toInt()
 
