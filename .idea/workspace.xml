@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8aa7b95-b851-44a7-bbea-376d9b8b0117" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basic/conditionals_e_loops/solutions/Solution_15.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/functions/exercises/Exercises.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/functions/solutions/Solution_01.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -32,47 +34,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Kotlin.Solution_01Kt (1).executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Solution_01Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Solution_02Kt (1).executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Solution_02Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Solution_03Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Solution_04Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Solution_05Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Solution_06Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Solution_07Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Solution_08Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Solution_09Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Solution_10Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Solution_11Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Solution_12Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Solution_13Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Solution_14Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Solution_15Kt.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;feat/conditional&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Kotlin.Solution_01Kt (1).executor": "Run",
+    "Kotlin.Solution_01Kt.executor": "Run",
+    "Kotlin.Solution_02Kt (1).executor": "Run",
+    "Kotlin.Solution_02Kt.executor": "Run",
+    "Kotlin.Solution_03Kt.executor": "Run",
+    "Kotlin.Solution_04Kt.executor": "Run",
+    "Kotlin.Solution_05Kt.executor": "Run",
+    "Kotlin.Solution_06Kt.executor": "Run",
+    "Kotlin.Solution_07Kt.executor": "Run",
+    "Kotlin.Solution_08Kt.executor": "Run",
+    "Kotlin.Solution_09Kt.executor": "Run",
+    "Kotlin.Solution_10Kt.executor": "Run",
+    "Kotlin.Solution_11Kt.executor": "Run",
+    "Kotlin.Solution_12Kt.executor": "Run",
+    "Kotlin.Solution_13Kt.executor": "Run",
+    "Kotlin.Solution_14Kt.executor": "Run",
+    "Kotlin.Solution_15Kt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\glass\projects\portfolio\learning\kotlin-learning\src\basic\fundamentals\exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Solution_15Kt">
-    <configuration name="Solution_11Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.conditionals_e_loops.solutions.Solution_11Kt" />
+  <component name="RunManager" selected="Kotlin.Solution_01Kt">
+    <configuration name="Solution_01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.functions.solutions.Solution_01Kt" />
       <module name="kotlin-learning" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Solution_01Kt" />
         <item itemvalue="Kotlin.Solution_15Kt" />
         <item itemvalue="Kotlin.Solution_14Kt" />
         <item itemvalue="Kotlin.Solution_13Kt" />
         <item itemvalue="Kotlin.Solution_12Kt" />
-        <item itemvalue="Kotlin.Solution_11Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -141,6 +143,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
