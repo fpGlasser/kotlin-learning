@@ -4,7 +4,7 @@ fun main(){
     print("Digite uma frase: ")
     val frase: String = readln()
 
-    val  listaFrases: List<String> = frase.split(" ")
+    val  kotlinReplaced:String = frase.replace("Kotlin", "Java")
 
-    listaFrases.forEach{println(it)}
+    println(kotlinReplaced)
 }
