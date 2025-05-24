@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8aa7b95-b851-44a7-bbea-376d9b8b0117" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basic/strings_e_arrays/solutions/Solution_09.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/strings_e_arrays/solutions/Solution_10.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,14 +70,7 @@
       <recent name="C:\Users\glass\projects\portfolio\learning\kotlin-learning\src\basic\fundamentals\exercises" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Solution_09Kt">
-    <configuration name="Solution_04Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.strings_e_arrays.solutions.Solution_04Kt" />
-      <module name="kotlin-learning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Solution_10Kt">
     <configuration name="Solution_05Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.strings_e_arrays.solutions.Solution_05Kt" />
       <module name="kotlin-learning" />
@@ -106,13 +99,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution_10Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.strings_e_arrays.solutions.Solution_10Kt" />
+      <module name="kotlin-learning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Solution_10Kt" />
         <item itemvalue="Kotlin.Solution_09Kt" />
         <item itemvalue="Kotlin.Solution_08Kt" />
         <item itemvalue="Kotlin.Solution_06Kt" />
         <item itemvalue="Kotlin.Solution_05Kt" />
-        <item itemvalue="Kotlin.Solution_04Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +137,7 @@
       <workItem from="1747676462178" duration="9110000" />
       <workItem from="1747802529070" duration="1459000" />
       <workItem from="1747850196595" duration="4110000" />
-      <workItem from="1748049780763" duration="4449000" />
+      <workItem from="1748049780763" duration="5942000" />
     </task>
     <servers />
   </component>
